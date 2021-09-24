@@ -1,9 +1,10 @@
 import './App.css';
+import OrderSummary from './components/OrderSummary'; 
 
 function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <OrderSummary/>
     </div>
   );
 }

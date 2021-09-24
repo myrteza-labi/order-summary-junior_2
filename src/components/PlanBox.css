@@ -1,0 +1,9 @@
+.PlanBox {
+    display: flex;
+    flex-direction: row;
+}
+
+.planBoxDescription {
+    display: flex;
+    flex-direction: column; 
+}
