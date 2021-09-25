@@ -7,3 +7,26 @@
     display: flex;
     flex-direction: column; 
 }
+
+.planBoxTitle {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 900; 
+    font-size: 14px; 
+    text-align: left; 
+}
+
+.planBoxPrice {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 500; 
+    font-size: 14px; 
+    text-align: left; 
+    color: #717FA6; 
+}
+
+.planBoxChangeLink {
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 700; 
+    font-size: 13px; 
+    text-align: left; 
+    color: #382AE1; 
+}
