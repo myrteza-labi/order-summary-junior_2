@@ -12,10 +12,13 @@ function OrderSummary(props){
     return(
         <div className="OrderSummary">
             <Illustration/>
-            <TextPresentation/>
-            <PlanBox/>
-            <PaymentBtn/>
-            <CancelBtn/>
+            <div className="mainContainer" >
+                <TextPresentation/>
+                <PlanBox/>
+                <PaymentBtn/>
+                <CancelBtn/>
+            </div>
+            
         </div>
     )
 }
