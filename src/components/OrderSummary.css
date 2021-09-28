@@ -18,3 +18,10 @@
     justify-content: center; 
     padding: 0 24px 0 24px ; 
 }
+
+@media screen and (min-width: 1440px) {
+    .OrderSummary {
+        width: 450px; 
+        height: 700px; 
+    }
+}

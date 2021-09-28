@@ -45,3 +45,25 @@
     height: 48px; 
     margin-right: 20px; 
 }
+
+@media screen and (min-width: 1440px) {
+    .PlanBox {
+        width: 355px; 
+        height: 100px; 
+        align-self: center; 
+        padding: 25px; 
+    }
+    .planBoxTitle {
+        font-size: 16px; 
+        margin-bottom: 4px; 
+        
+    }
+    .planBoxPrice {
+        font-size: 16px; 
+    }
+    .planBoxChangeLink {
+        font-size: 14px; 
+        font-weight: 900; 
+        margin-left: 60px; 
+    }
+}
