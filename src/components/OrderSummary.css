@@ -1,9 +1,13 @@
 .OrderSummary{
     display:flex; 
     flex-direction: column; 
-    justify-content: center;
     width: 327px; 
-    height: auto; 
+    height: 564px; 
+    border-radius: 20px; 
+    overflow: hidden; 
+    background-color: #fff; 
+    margin-top: 70px; 
+  
 }
 
 .mainContainer {
