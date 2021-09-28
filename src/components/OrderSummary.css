@@ -24,4 +24,8 @@
         width: 450px; 
         height: 700px; 
     }
+    .mainContainer {
+        padding: 0 48px 0 48px ; 
+    }
 }
+

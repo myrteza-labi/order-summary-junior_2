@@ -11,4 +11,14 @@
     border-radius: 10px; 
     margin-bottom:  20px; 
     box-shadow: 0px 15px 10px #DFE6FB; 
+    cursor: pointer; 
+}
+@media screen and (min-width: 1440px) {
+    .PaymentBtn {
+        margin-bottom:  40px; 
+    }
+    .PaymentBtn:hover {
+        background-color: #766CF1; 
+    }
+    
 }

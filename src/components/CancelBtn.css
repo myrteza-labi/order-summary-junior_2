@@ -5,4 +5,12 @@
     color: #717FA6; 
     border: none; 
     background-color: white; 
+    cursor: pointer; 
+}
+
+@media screen and (min-width: 1440px) {
+    .CancelBtn:hover {
+        color: #1F2E55; 
+        font-size: 15px; 
+    }
 }
